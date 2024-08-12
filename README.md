@@ -2,8 +2,6 @@
 
 ## You can check out my portfolio over there: <https://portfolio.primo.business/>
 
-_btw, I'm stil working on this file._
-
 ---
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/44984918?v=4"  />
@@ -213,3 +211,8 @@ _btw, I'm stil working on this file._
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="40" alt="yaml logo"  />
 </div>
+
+---
+
+_btw, I'm stil working on this file._
+
