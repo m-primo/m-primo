@@ -8,6 +8,7 @@
 
 <div align="left">
   <h2>This is some of my current tech stack:</h2>
+  <p><small><i>Some people say this mess looks cool and cute, so here's it.</i></small></p>
 
 <!-- https://github.com/devicons/devicon/tree/v2.16.0 -->
 
